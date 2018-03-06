@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="36" passed="36">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="233634" started-at="2018-03-06T09:43:45Z" finished-at="2018-03-06T09:47:39Z">
+    <groups>
+    </groups>
+    <test name="WeKanTest" duration-ms="233634" started-at="2018-03-06T09:43:45Z" finished-at="2018-03-06T09:47:39Z">
+      <class name="WeKanTest.SignUpTestSuite">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="5124" started-at="2018-03-06T09:43:45Z" finished-at="2018-03-06T09:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyLanguageIsChangingAccordingToSelectionMadeFromLanguageDropdownMenu()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyLanguageIsChangingAccordingToSelectionMadeFromLanguageDropdownMenu" duration-ms="269" started-at="2018-03-06T09:43:50Z" finished-at="2018-03-06T09:43:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyLanguageIsChangingAccordingToSelectionMadeFromLanguageDropdownMenu -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="1033" started-at="2018-03-06T09:43:51Z" finished-at="2018-03-06T09:43:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyLanguageIsChangingAccordingToSelectionMadeFromLanguageDropdownMenu status=SUCCESS method=SignUpTestSuite.toVerifyLanguageIsChangingAccordingToSelectionMadeFromLanguageDropdownMenu()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4262" started-at="2018-03-06T09:43:52Z" finished-at="2018-03-06T09:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifySignUpPageIsLoadedCorrectlyWithUserNameEmailAndPasswordInputFieldRegisterButtonSignInlinkAndDropdownmenu()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifySignUpPageIsLoadedCorrectlyWithUserNameEmailAndPasswordInputFieldRegisterButtonSignInlinkAndDropdownmenu" duration-ms="319" started-at="2018-03-06T09:43:56Z" finished-at="2018-03-06T09:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifySignUpPageIsLoadedCorrectlyWithUserNameEmailAndPasswordInputFieldRegisterButtonSignInlinkAndDropdownmenu -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="899" started-at="2018-03-06T09:43:56Z" finished-at="2018-03-06T09:43:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifySignUpPageIsLoadedCorrectlyWithUserNameEmailAndPasswordInputFieldRegisterButtonSignInlinkAndDropdownmenu status=SUCCESS method=SignUpTestSuite.toVerifySignUpPageIsLoadedCorrectlyWithUserNameEmailAndPasswordInputFieldRegisterButtonSignInlinkAndDropdownmenu()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4292" started-at="2018-03-06T09:43:57Z" finished-at="2018-03-06T09:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldBeAbleToNavigateToSignInPage()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldBeAbleToNavigateToSignInPage" duration-ms="282" started-at="2018-03-06T09:44:02Z" finished-at="2018-03-06T09:44:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldBeAbleToNavigateToSignInPage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="923" started-at="2018-03-06T09:44:02Z" finished-at="2018-03-06T09:44:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldBeAbleToNavigateToSignInPage status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldBeAbleToNavigateToSignInPage()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4340" started-at="2018-03-06T09:44:03Z" finished-at="2018-03-06T09:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldBeAbleToNavigateToSignUpPage()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldBeAbleToNavigateToSignUpPage" duration-ms="205" started-at="2018-03-06T09:44:07Z" finished-at="2018-03-06T09:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldBeAbleToNavigateToSignUpPage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="878" started-at="2018-03-06T09:44:07Z" finished-at="2018-03-06T09:44:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldBeAbleToNavigateToSignUpPage status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldBeAbleToNavigateToSignUpPage()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4390" started-at="2018-03-06T09:44:08Z" finished-at="2018-03-06T09:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldBeAbleToRegisterwithValidUserNameAndValidPassword()[pri:1, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldBeAbleToRegisterwithValidUserNameAndValidPassword" duration-ms="1009" started-at="2018-03-06T09:44:13Z" finished-at="2018-03-06T09:44:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldBeAbleToRegisterwithValidUserNameAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="874" started-at="2018-03-06T09:44:14Z" finished-at="2018-03-06T09:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldBeAbleToRegisterwithValidUserNameAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldBeAbleToRegisterwithValidUserNameAndValidPassword()[pri:1, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4379" started-at="2018-03-06T09:44:14Z" finished-at="2018-03-06T09:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndInvalidPassword()[pri:2, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndInvalidPassword" duration-ms="633" started-at="2018-03-06T09:44:19Z" finished-at="2018-03-06T09:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="840" started-at="2018-03-06T09:44:19Z" finished-at="2018-03-06T09:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndInvalidPassword()[pri:2, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4420" started-at="2018-03-06T09:44:20Z" finished-at="2018-03-06T09:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndBlankPassword()[pri:3, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndBlankPassword" duration-ms="556" started-at="2018-03-06T09:44:25Z" finished-at="2018-03-06T09:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="880" started-at="2018-03-06T09:44:25Z" finished-at="2018-03-06T09:44:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameValidEmailAndBlankPassword()[pri:3, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4380" started-at="2018-03-06T09:44:26Z" finished-at="2018-03-06T09:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndValidPassword()[pri:4, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndValidPassword" duration-ms="544" started-at="2018-03-06T09:44:31Z" finished-at="2018-03-06T09:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="844" started-at="2018-03-06T09:44:31Z" finished-at="2018-03-06T09:44:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndValidPassword()[pri:4, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4426" started-at="2018-03-06T09:44:32Z" finished-at="2018-03-06T09:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndInvalidPassword()[pri:5, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndInvalidPassword" duration-ms="555" started-at="2018-03-06T09:44:36Z" finished-at="2018-03-06T09:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="797" started-at="2018-03-06T09:44:37Z" finished-at="2018-03-06T09:44:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndInvalidPassword()[pri:5, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4367" started-at="2018-03-06T09:44:38Z" finished-at="2018-03-06T09:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndBlankPassword()[pri:6, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndBlankPassword" duration-ms="486" started-at="2018-03-06T09:44:42Z" finished-at="2018-03-06T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="828" started-at="2018-03-06T09:44:43Z" finished-at="2018-03-06T09:44:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameInvalidEmailAndBlankPassword()[pri:6, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4327" started-at="2018-03-06T09:44:43Z" finished-at="2018-03-06T09:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndValidPassword()[pri:7, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndValidPassword" duration-ms="474" started-at="2018-03-06T09:44:48Z" finished-at="2018-03-06T09:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="869" started-at="2018-03-06T09:44:48Z" finished-at="2018-03-06T09:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndValidPassword()[pri:7, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4386" started-at="2018-03-06T09:44:49Z" finished-at="2018-03-06T09:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndInvalidPassword()[pri:8, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndInvalidPassword" duration-ms="549" started-at="2018-03-06T09:44:53Z" finished-at="2018-03-06T09:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="800" started-at="2018-03-06T09:44:54Z" finished-at="2018-03-06T09:44:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndInvalidPassword()[pri:8, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4448" started-at="2018-03-06T09:44:55Z" finished-at="2018-03-06T09:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndBlankPassword()[pri:9, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndBlankPassword" duration-ms="411" started-at="2018-03-06T09:44:59Z" finished-at="2018-03-06T09:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="814" started-at="2018-03-06T09:45:00Z" finished-at="2018-03-06T09:45:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameBlankEmailAndBlankPassword()[pri:9, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4396" started-at="2018-03-06T09:45:00Z" finished-at="2018-03-06T09:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndValidPassword()[pri:10, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndValidPassword" duration-ms="5202" started-at="2018-03-06T09:45:05Z" finished-at="2018-03-06T09:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="1282" started-at="2018-03-06T09:45:10Z" finished-at="2018-03-06T09:45:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndValidPassword()[pri:10, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4495" started-at="2018-03-06T09:45:11Z" finished-at="2018-03-06T09:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndInvalidPassword()[pri:11, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndInvalidPassword" duration-ms="5141" started-at="2018-03-06T09:45:16Z" finished-at="2018-03-06T09:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="986" started-at="2018-03-06T09:45:21Z" finished-at="2018-03-06T09:45:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndInvalidPassword()[pri:11, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4307" started-at="2018-03-06T09:45:22Z" finished-at="2018-03-06T09:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndBlankPassword()[pri:12, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndBlankPassword" duration-ms="4915" started-at="2018-03-06T09:45:26Z" finished-at="2018-03-06T09:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="861" started-at="2018-03-06T09:45:31Z" finished-at="2018-03-06T09:45:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameValidEmailAndBlankPassword()[pri:12, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="7491" started-at="2018-03-06T09:45:32Z" finished-at="2018-03-06T09:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndValidPassword()[pri:13, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndValidPassword" duration-ms="5028" started-at="2018-03-06T09:45:40Z" finished-at="2018-03-06T09:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="801" started-at="2018-03-06T09:45:45Z" finished-at="2018-03-06T09:45:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndValidPassword()[pri:13, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4329" started-at="2018-03-06T09:45:45Z" finished-at="2018-03-06T09:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndBlankPassword()[pri:14, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndBlankPassword" duration-ms="512" started-at="2018-03-06T09:45:50Z" finished-at="2018-03-06T09:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="820" started-at="2018-03-06T09:45:50Z" finished-at="2018-03-06T09:45:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndBlankPassword()[pri:14, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4428" started-at="2018-03-06T09:45:51Z" finished-at="2018-03-06T09:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndValidPassword()[pri:15, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndValidPassword" duration-ms="437" started-at="2018-03-06T09:45:55Z" finished-at="2018-03-06T09:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="793" started-at="2018-03-06T09:45:56Z" finished-at="2018-03-06T09:45:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndValidPassword()[pri:15, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4416" started-at="2018-03-06T09:45:57Z" finished-at="2018-03-06T09:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndInvalidPassword()[pri:16, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndInvalidPassword" duration-ms="524" started-at="2018-03-06T09:46:01Z" finished-at="2018-03-06T09:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="804" started-at="2018-03-06T09:46:02Z" finished-at="2018-03-06T09:46:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndInvalidPassword()[pri:16, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4399" started-at="2018-03-06T09:46:02Z" finished-at="2018-03-06T09:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndBlankPassword()[pri:17, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndBlankPassword" duration-ms="411" started-at="2018-03-06T09:46:07Z" finished-at="2018-03-06T09:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="785" started-at="2018-03-06T09:46:07Z" finished-at="2018-03-06T09:46:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameBlankEmailAndBlankPassword()[pri:17, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4452" started-at="2018-03-06T09:46:08Z" finished-at="2018-03-06T09:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndValidPassword()[pri:18, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndValidPassword" duration-ms="553" started-at="2018-03-06T09:46:13Z" finished-at="2018-03-06T09:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="792" started-at="2018-03-06T09:46:13Z" finished-at="2018-03-06T09:46:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndValidPassword()[pri:18, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4265" started-at="2018-03-06T09:46:14Z" finished-at="2018-03-06T09:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndInvalidPassword()[pri:19, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndInvalidPassword" duration-ms="543" started-at="2018-03-06T09:46:18Z" finished-at="2018-03-06T09:46:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="825" started-at="2018-03-06T09:46:19Z" finished-at="2018-03-06T09:46:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndInvalidPassword()[pri:19, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4259" started-at="2018-03-06T09:46:20Z" finished-at="2018-03-06T09:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndBlankPassword()[pri:20, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndBlankPassword" duration-ms="428" started-at="2018-03-06T09:46:24Z" finished-at="2018-03-06T09:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="802" started-at="2018-03-06T09:46:24Z" finished-at="2018-03-06T09:46:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameValidEmailAndBlankPassword()[pri:20, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4340" started-at="2018-03-06T09:46:25Z" finished-at="2018-03-06T09:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndValidPassword()[pri:21, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndValidPassword" duration-ms="509" started-at="2018-03-06T09:46:29Z" finished-at="2018-03-06T09:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="784" started-at="2018-03-06T09:46:30Z" finished-at="2018-03-06T09:46:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndValidPassword()[pri:21, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4444" started-at="2018-03-06T09:46:31Z" finished-at="2018-03-06T09:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndInvalidPassword()[pri:22, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndInvalidPassword" duration-ms="502" started-at="2018-03-06T09:46:35Z" finished-at="2018-03-06T09:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="843" started-at="2018-03-06T09:46:36Z" finished-at="2018-03-06T09:46:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndInvalidPassword()[pri:22, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4947" started-at="2018-03-06T09:46:36Z" finished-at="2018-03-06T09:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndBlankPassword()[pri:23, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndBlankPassword" duration-ms="433" started-at="2018-03-06T09:46:41Z" finished-at="2018-03-06T09:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="815" started-at="2018-03-06T09:46:42Z" finished-at="2018-03-06T09:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameInvalidEmailAndBlankPassword()[pri:23, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4482" started-at="2018-03-06T09:46:43Z" finished-at="2018-03-06T09:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndValidPassword()[pri:24, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndValidPassword" duration-ms="378" started-at="2018-03-06T09:46:47Z" finished-at="2018-03-06T09:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="830" started-at="2018-03-06T09:46:47Z" finished-at="2018-03-06T09:46:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndValidPassword()[pri:24, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4376" started-at="2018-03-06T09:46:48Z" finished-at="2018-03-06T09:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndInvalidPassword()[pri:25, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndInvalidPassword" duration-ms="445" started-at="2018-03-06T09:46:53Z" finished-at="2018-03-06T09:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="814" started-at="2018-03-06T09:46:53Z" finished-at="2018-03-06T09:46:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndInvalidPassword()[pri:25, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4303" started-at="2018-03-06T09:46:54Z" finished-at="2018-03-06T09:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndInvalidPassword()[pri:26, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndInvalidPassword" duration-ms="4957" started-at="2018-03-06T09:46:58Z" finished-at="2018-03-06T09:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndInvalidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="804" started-at="2018-03-06T09:47:03Z" finished-at="2018-03-06T09:47:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndInvalidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameInvalidEmailAndInvalidPassword()[pri:26, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4342" started-at="2018-03-06T09:47:04Z" finished-at="2018-03-06T09:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndBlankPassword()[pri:27, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndBlankPassword" duration-ms="353" started-at="2018-03-06T09:47:08Z" finished-at="2018-03-06T09:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndBlankPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="801" started-at="2018-03-06T09:47:09Z" finished-at="2018-03-06T09:47:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndBlankPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithBlankUserNameBlankEmailAndBlankPassword()[pri:27, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4313" started-at="2018-03-06T09:47:10Z" finished-at="2018-03-06T09:47:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameSameEmailAndValidPassword()[pri:28, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameSameEmailAndValidPassword" duration-ms="732" started-at="2018-03-06T09:47:14Z" finished-at="2018-03-06T09:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameSameEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="810" started-at="2018-03-06T09:47:15Z" finished-at="2018-03-06T09:47:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameSameEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameSameEmailAndValidPassword()[pri:28, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4418" started-at="2018-03-06T09:47:15Z" finished-at="2018-03-06T09:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameValidEmailAndValidPassword()[pri:29, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameValidEmailAndValidPassword" duration-ms="714" started-at="2018-03-06T09:47:20Z" finished-at="2018-03-06T09:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameValidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="829" started-at="2018-03-06T09:47:20Z" finished-at="2018-03-06T09:47:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameValidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameValidEmailAndValidPassword()[pri:29, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4460" started-at="2018-03-06T09:47:21Z" finished-at="2018-03-06T09:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameInvalidEmailAndValidPassword()[pri:30, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameInvalidEmailAndValidPassword" duration-ms="651" started-at="2018-03-06T09:47:26Z" finished-at="2018-03-06T09:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameInvalidEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="838" started-at="2018-03-06T09:47:26Z" finished-at="2018-03-06T09:47:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameInvalidEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithSameUserNameInvalidEmailAndValidPassword()[pri:30, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4573" started-at="2018-03-06T09:47:27Z" finished-at="2018-03-06T09:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameSameEmailAndValidPassword()[pri:31, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameSameEmailAndValidPassword" duration-ms="762" started-at="2018-03-06T09:47:32Z" finished-at="2018-03-06T09:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameSameEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="838" started-at="2018-03-06T09:47:33Z" finished-at="2018-03-06T09:47:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameSameEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithValidUserNameSameEmailAndValidPassword()[pri:31, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="openBrowser" is-config="true" duration-ms="4181" started-at="2018-03-06T09:47:33Z" finished-at="2018-03-06T09:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameSameEmailAndValidPassword()[pri:32, instance:WeKanTest.SignUpTestSuite@6d763516]" name="toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameSameEmailAndValidPassword" duration-ms="526" started-at="2018-03-06T09:47:38Z" finished-at="2018-03-06T09:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameSameEmailAndValidPassword -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:WeKanTest.SignUpTestSuite@6d763516]" name="tearDown" is-config="true" duration-ms="812" started-at="2018-03-06T09:47:38Z" finished-at="2018-03-06T09:47:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameSameEmailAndValidPassword status=SUCCESS method=SignUpTestSuite.toVerifyUserShouldNotBeAbleToRegisterwithInvalidUserNameSameEmailAndValidPassword()[pri:32, instance:WeKanTest.SignUpTestSuite@6d763516] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- WeKanTest.SignUpTestSuite -->
+    </test> <!-- WeKanTest -->
+  </suite> <!-- Default Suite -->
+</testng-results>

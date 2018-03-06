@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="WeKanTest(failed)">
+    <classes>
+      <class name="WeKanTest.SignInTestSuite">
+        <methods>
+          <include name="toVerifyLanguageIsChangingAccordingToSelectionMadeFromLanguageDropdownMenu"/>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- WeKanTest.SignInTestSuite -->
+    </classes>
+  </test> <!-- WeKanTest(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
